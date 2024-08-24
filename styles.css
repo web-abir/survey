@@ -11,7 +11,7 @@ body {
     background-attachment: fixed;
     display: flex;
     justify-content: center;
-    padding: 60px 0;
+    padding: 60px 15px;
 }
 .survey-container {
     background: rgba(0, 0, 0, 0.7);
